@@ -1,0 +1,25 @@
+[
+  {
+    "Faculty": "A",
+    "course_id": 1,
+    "course_name": "A"
+  },
+
+  {
+  "Faculty": "B",
+  "course_id": 1,
+  "course_name": "B"
+  },
+  {
+    "Faculty": "C",
+    "course_id": 3,
+    "course_name": "C"
+  },
+
+  {
+    "Faculty": "D",
+    "course_id": 4,
+    "course_name": "D"
+  }
+
+]

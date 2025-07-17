@@ -1,0 +1,5 @@
+{
+    "Faculty": "Aftab",
+    "course_id": 101,
+    "course_name": "LCA"
+}
