@@ -1,4 +1,4 @@
-**📘 Course Management System (C++ OOP Project)
+# **📘 Course Management System (C++ OOP Project)**
 This is a C++ Course Management System that leverages Object-Oriented Programming (OOP) principles to model and manage academic courses, topics, and assessments. It is designed to run as a console-based interactive application, providing users a clean and structured interface to perform various course-related operations.
 Main Menu Design to get An Idea:
 
@@ -14,7 +14,7 @@ Main Menu Design to get An Idea:
 9) Display Course-Topic Stats  
 0) Exit
 
-**🎯 Program Functions:
+## **🎯 Program Functions**
 - Add, remove, and edit courses
 
 - View all courses or a specific course
@@ -28,7 +28,7 @@ Main Menu Design to get An Idea:
 - Maintain persistent records using JSON and file streams
 
 
-**🧠 Concepts Demonstrated
+## **🧠 Concepts Demonstrated
 1) Encapsulation: All data and behavior are grouped within classes like Course, Topic, Faculty, and Test using private, public, and protected access specifiers.
 
 2) Inheritance: Quiz, Assignments, and Final classes inherit from the abstract class Test, promoting code reuse.
